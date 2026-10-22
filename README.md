@@ -25,16 +25,16 @@ Full-stack developer at **[ABC Digital](https://github.com/abc-software-solution
 **Backend** &nbsp; NestJS · Node.js · FastAPI · PostgreSQL  
 **DevOps** &nbsp; Docker · GitHub Actions · Linux · Vercel
 
-### Side projects
+### What I focus on
 
-- **[Vietnam Air Quality](https://github.com/IamPatricKKK/air-quality-fe)** — realtime air-quality platform with data ingestion, forecasting and an offline-first PWA.
-- **[LenKeo](https://github.com/IamPatricKKK/LenKeo)** — plan group purchases and split the bill ([live](https://share-bill-three.vercel.app)).
-- **[Computer vision experiments](https://github.com/IamPatricKKK/helmet-detection-whith-YOLO)** — helmet and emotion detection with YOLOv8 and PyTorch.
+- **Product delivery** — turning requirements into shipped features across web, admin and mobile.
+- **Clean, typed architecture** — shared TypeScript contracts, modular services and maintainable monorepos.
+- **Reliability** — automated tests, CI/CD and containerised, reproducible deployments.
 
 ### Activity
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./profile-3d-contrib/profile-3d-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./profile-3d-contrib/profile-3d-light.svg" />
-  <img width="100%" alt="3D contribution calendar" src="./profile-3d-contrib/profile-3d-light.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/activity-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/activity-light.svg" />
+  <img width="100%" alt="Contribution activity over the last 12 months" src="./assets/activity-light.svg" />
 </picture>
