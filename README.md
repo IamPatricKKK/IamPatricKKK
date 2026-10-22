@@ -12,17 +12,20 @@ Full-stack developer at **[ABC Digital](https://github.com/abc-software-solution
 
 **Full-Stack Developer · ABC Digital** — 2025 – present
 
-- Deliver client and internal products across e-commerce, booking, HR, loyalty and marketing domains.
-- Design and build backend services and REST APIs, including authentication, role-based access and third-party integrations.
-- Develop customer-facing websites, admin dashboards and cross-platform mobile apps.
-- Set up monorepos, containerised environments and CI/CD pipelines from staging to production.
-- Work in an agile team with code review, written specs, automated testing and AI-assisted workflows.
+- Deliver client and internal products across e-commerce, healthcare, booking, HR, recruitment, loyalty and marketing domains.
+- Build backend services with NestJS and PostgreSQL: REST APIs, authentication (JWT, OAuth, Microsoft SSO), role-based access, real-time features, background jobs, file storage and email.
+- Develop customer-facing websites with Next.js, admin dashboards with React and Vite, and mobile apps with React Native and Expo.
+- Integrate LLM APIs (Claude, Gemini) into products and internal tools.
+- Run monorepos with Turborepo and pnpm, containerise services with Docker, and ship through GitHub Actions CI/CD to VPS, Google Cloud and Vercel.
+- Write unit and end-to-end tests with Vitest, Jest and Playwright as part of an agile team with code review and written specs.
 
 ### Tech stack
 
-<p align="center">
-  <img src="./assets/stack.svg" width="640" alt="Docker, Bash, Git, GitHub Actions, Linux, Nginx, Google Cloud, Vercel, JavaScript, TypeScript, React, Next.js, Vite, Tailwind CSS, Node.js, Express, NestJS, FastAPI, Python, Socket.IO, PostgreSQL, Supabase, Swagger, Vitest, pnpm" />
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/stack-light.svg" />
+  <img width="100%" src="./assets/stack-light.svg" alt="Languages: TypeScript, JavaScript, Python, Java, HTML5, CSS3. Frontend: React, Next.js, Vite, Tailwind CSS, shadcn/ui, Redux, Zustand, Sass, Storybook. Mobile: React Native, Expo, Firebase. Backend: Node.js, NestJS, Express, FastAPI, Socket.IO, Swagger. Data: PostgreSQL, Redis, MikroORM, Prisma, Drizzle, SQLAlchemy. Testing: Vitest, Jest, Playwright, Pytest. DevOps and cloud: Docker, GitHub Actions, Nginx, Linux, Bash, Git, Google Cloud, AWS, Vercel, Turborepo, pnpm. AI and ML: Claude, PyTorch, OpenCV, scikit-learn, pandas, NumPy." />
+</picture>
 
 ### What I focus on
 
