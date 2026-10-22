@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-label="Pham Xuan Truong — Full-Stack Developer">
+  <title>Pham Xuan Truong — Full-Stack Developer</title>
+  <style>
+    .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif; }
+    .mono { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+    .in { opacity: 0; animation: in 0.8s ease-out forwards; }
+    .d1 { animation-delay: 0.05s; } .d2 { animation-delay: 0.2s; } .d3 { animation-delay: 0.35s; } .d4 { animation-delay: 0.5s; }
+    @keyframes in { from { opacity: 0; transform: translateY(6px); } to { opacity: 1; transform: none; } }
+    @media (prefers-reduced-motion: reduce) { .in { animation: none; opacity: 1; } }
+  </style>
+
+  <text class="mono in d1" x="40" y="70" font-size="14" font-weight="600" letter-spacing="3" fill="#0969da">FULL-STACK DEVELOPER</text>
+  <text class="sans in d2" x="37" y="140" font-size="64" font-weight="700" letter-spacing="-1.5" fill="#1f2328">Pham Xuan Truong</text>
+  <text class="sans in d3" x="40" y="182" font-size="20" fill="#59636e">Building web platforms end-to-end: APIs, web &amp; mobile apps, CI/CD.</text>
+
+  <rect class="in d3" x="826" y="50" width="1" height="146" fill="#d1d9e0"/>
+
+  <g class="mono in d4" font-size="15">
+    <text x="860" y="70"><tspan fill="#cf222e">const</tspan><tspan fill="#1f2328"> stack</tspan><tspan fill="#59636e"> = {</tspan></text>
+    <text y="98"><tspan x="884" fill="#1f2328">backend</tspan><tspan fill="#59636e">:</tspan><tspan x="980" fill="#0a3069">"NestJS · PostgreSQL"</tspan><tspan fill="#59636e">,</tspan></text>
+    <text y="122"><tspan x="884" fill="#1f2328">frontend</tspan><tspan fill="#59636e">:</tspan><tspan x="980" fill="#0a3069">"React · Next.js"</tspan><tspan fill="#59636e">,</tspan></text>
+    <text y="146"><tspan x="884" fill="#1f2328">mobile</tspan><tspan fill="#59636e">:</tspan><tspan x="980" fill="#0a3069">"React Native"</tspan><tspan fill="#59636e">,</tspan></text>
+    <text y="170"><tspan x="884" fill="#1f2328">devops</tspan><tspan fill="#59636e">:</tspan><tspan x="980" fill="#0a3069">"Docker · CI/CD"</tspan><tspan fill="#59636e">,</tspan></text>
+    <text x="860" y="194" fill="#59636e">};</text>
+  </g>
+
+  <rect x="40" y="228" width="1120" height="1" fill="#d1d9e0"/>
+  <rect class="in d4" x="40" y="227" width="96" height="3" rx="1.5" fill="#0969da"/>
+</svg>
