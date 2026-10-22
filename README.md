@@ -21,11 +21,13 @@ Full-stack developer at **[ABC Digital](https://github.com/abc-software-solution
 
 ### Tech stack
 
+<p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/orbit3-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/orbit3-light.svg" />
-  <img width="100%" src="./assets/orbit3-light.svg" alt="Languages: TypeScript, JavaScript, Python, Java. Frontend: React, Next.js, Vite, Tailwind CSS, shadcn/ui, TanStack Query. Backend: Node.js, NestJS, Express, FastAPI, Socket.IO, Swagger. Data: PostgreSQL, MikroORM, Prisma, Redis, Supabase. Mobile: React Native, Expo, Firebase. DevOps: Docker, GitHub Actions, Nginx, Caddy, PM2, Linux, Vercel, pnpm." />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/orbit4-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/orbit4-light.svg" />
+  <img width="720" src="./assets/orbit4-light.svg" alt="Languages: TypeScript, JavaScript, Python, Java. Frontend: React, Next.js, Vite, Tailwind CSS, shadcn/ui, TanStack Query. Backend: Node.js, NestJS, Express, FastAPI, Socket.IO, Swagger. Data: PostgreSQL, MikroORM, Prisma, Redis, Supabase. Mobile: React Native, Expo, Firebase. DevOps: Docker, GitHub Actions, Nginx, Caddy, PM2, Linux, Vercel, pnpm." />
 </picture>
+</p>
 
 ### What I focus on
 
