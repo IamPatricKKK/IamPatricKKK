@@ -23,6 +23,7 @@
       <circle cx="2" cy="2" r="1" fill="#94a3b8" fill-opacity="0.12"/>
     </pattern>
     <clipPath id="card"><rect width="1200" height="320" rx="20"/></clipPath>
+    <clipPath id="track"><rect x="300" y="210" width="600" height="10"/></clipPath>
     <style>
       .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Inter", Helvetica, Arial, sans-serif; }
       .mono { font-family: "SFMono-Regular", "JetBrains Mono", Menlo, Consolas, "Liberation Mono", monospace; }
@@ -65,7 +66,7 @@
 
   <g class="rise d3">
     <rect x="300" y="214" width="600" height="1.5" fill="#1e293b"/>
-    <g clip-path="url(#card)"><rect class="scan" x="450" y="213.5" width="300" height="2.5" fill="url(#line)"/></g>
+    <g clip-path="url(#track)"><rect class="scan" x="450" y="213.5" width="300" height="2.5" fill="url(#line)"/></g>
   </g>
 
   <g class="rise d4">

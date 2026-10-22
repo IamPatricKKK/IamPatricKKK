@@ -68,11 +68,8 @@ I'm a full-stack developer at **[ABC Digital](https://github.com/abc-software-so
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=IamPatricKKK&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&border_radius=12&bg_color=0b1020&title_color=a5b4fc&icon_color=7dd3fc&text_color=cbd5e1" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamPatricKKK&layout=compact&langs_count=8&hide=html,css,plpgsql,batchfile,dockerfile&exclude_repo=64132786_Web2,Web2_PhamXuanTruong,GameNe,TheGameNe,GAMENEE&hide_border=true&border_radius=12&bg_color=0b1020&title_color=a5b4fc&text_color=cbd5e1" alt="Top languages" />
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=IamPatricKKK&hide_border=true&border_radius=12&background=0B1020&ring=818CF8&fire=7DD3FC&currStreakNum=E2E8F0&sideNums=A5B4FC&currStreakLabel=7DD3FC&sideLabels=CBD5E1&dates=94A3B8" alt="GitHub streak" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=IamPatricKKK&hide_border=true&border_radius=12&background=0B1020&ring=818CF8&fire=7DD3FC&currStreakNum=E2E8F0&sideNums=A5B4FC&currStreakLabel=7DD3FC&sideLabels=CBD5E1&dates=94A3B8" alt="GitHub streak" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamPatricKKK&layout=compact&langs_count=4&card_width=320&hide=html,css,plpgsql,batchfile,dockerfile&exclude_repo=64132786_Web2,Web2_PhamXuanTruong,GameNe,TheGameNe,GAMENEE&hide_border=true&border_radius=12&bg_color=0b1020&title_color=a5b4fc&text_color=cbd5e1" alt="Top languages" />
 </p>
 
 <p align="center">
