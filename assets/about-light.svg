@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="316" viewBox="0 0 1000 316" role="img" aria-label="About">
+  <title>About</title>
+  <style>
+    .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif; }
+    .mono { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+    .in { opacity: 0; animation: in 0.7s cubic-bezier(.2,.7,.2,1) forwards; }
+    @keyframes in { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+    .row { opacity: 0; animation: row 0.6s cubic-bezier(.2,.7,.2,1) forwards; }
+    @keyframes row { from { opacity: 0; transform: translateX(-12px); } to { opacity: 1; transform: none; } }
+    @media (prefers-reduced-motion: reduce) { .in, .row { animation: none; opacity: 1; transform: none; } }
+  </style>
+  <g class="in" style="animation-delay:0.05s"><text class="mono" x="0" y="22" font-size="12" font-weight="700" letter-spacing="2.5" fill="#0969da">WHO I AM</text></g>
+  <g class="in" style="animation-delay:0.15s"><text class="sans" x="0" y="66" font-size="28" font-weight="700" letter-spacing="-0.5" fill="#1f2328">Hi, I'm Truong</text></g>
+  <g class="in" style="animation-delay:0.25s"><text class="sans" x="0" y="104" font-size="16" fill="#59636e">A full-stack developer who turns</text></g>
+  <g class="in" style="animation-delay:0.30s"><text class="sans" x="0" y="129" font-size="16" fill="#59636e">ideas into working products — web,</text></g>
+  <g class="in" style="animation-delay:0.35s"><text class="sans" x="0" y="154" font-size="16" fill="#59636e">admin and mobile — and takes them</text></g>
+  <g class="in" style="animation-delay:0.40s"><text class="sans" x="0" y="179" font-size="16" fill="#59636e">all the way to production.</text></g>
+  <rect x="326" y="8" width="1" height="0" fill="#d1d9e0"><animate attributeName="height" from="0" to="300" begin="0.2s" dur="0.9s" fill="freeze"/></rect>
+  <g class="in" style="animation-delay:0.10s"><text class="mono" x="360" y="22" font-size="12" font-weight="700" letter-spacing="2.5" fill="#0969da">WHAT I DO</text></g>
+  <g class="row" style="animation-delay:0.35s">
+    <rect x="360" y="43" width="86" height="22" rx="11" fill="#1a7f37" fill-opacity="0.14" stroke="#1a7f37" stroke-opacity="0.5"/>
+    <text class="mono" x="403.0" y="58" font-size="11" font-weight="700" letter-spacing="1.4" text-anchor="middle" fill="#1a7f37">BACKEND</text>
+    <text class="sans" x="462" y="58" font-size="16" fill="#1f2328">Design APIs, data models and secure, scalable services.</text>
+  </g>
+  <g class="row" style="animation-delay:0.44s">
+    <rect x="360" y="77" width="86" height="22" rx="11" fill="#8250df" fill-opacity="0.14" stroke="#8250df" stroke-opacity="0.5"/>
+    <text class="mono" x="403.0" y="92" font-size="11" font-weight="700" letter-spacing="1.4" text-anchor="middle" fill="#8250df">FRONTEND</text>
+    <text class="sans" x="462" y="92" font-size="16" fill="#1f2328">Build fast, responsive websites and admin dashboards.</text>
+  </g>
+  <g class="row" style="animation-delay:0.53s">
+    <rect x="360" y="111" width="86" height="22" rx="11" fill="#bf3989" fill-opacity="0.14" stroke="#bf3989" stroke-opacity="0.5"/>
+    <text class="mono" x="403.0" y="126" font-size="11" font-weight="700" letter-spacing="1.4" text-anchor="middle" fill="#bf3989">MOBILE</text>
+    <text class="sans" x="462" y="126" font-size="16" fill="#1f2328">Ship cross-platform mobile apps.</text>
+  </g>
+  <g class="row" style="animation-delay:0.62s">
+    <rect x="360" y="145" width="86" height="22" rx="11" fill="#bc4c00" fill-opacity="0.14" stroke="#bc4c00" stroke-opacity="0.5"/>
+    <text class="mono" x="403.0" y="160" font-size="11" font-weight="700" letter-spacing="1.4" text-anchor="middle" fill="#bc4c00">AI</text>
+    <text class="sans" x="462" y="160" font-size="16" fill="#1f2328">Bring LLMs into products and everyday workflows.</text>
+  </g>
+  <g class="row" style="animation-delay:0.71s">
+    <rect x="360" y="179" width="86" height="22" rx="11" fill="#0e7490" fill-opacity="0.14" stroke="#0e7490" stroke-opacity="0.5"/>
+    <text class="mono" x="403.0" y="194" font-size="11" font-weight="700" letter-spacing="1.4" text-anchor="middle" fill="#0e7490">DEVOPS</text>
+    <text class="sans" x="462" y="194" font-size="16" fill="#1f2328">Containerise, automate CI/CD and run services in production.</text>
+  </g>
+  <g class="in" style="animation-delay:0.85s"><text class="mono" x="360" y="246" font-size="12" font-weight="700" letter-spacing="2.5" fill="#0969da">WHAT I'VE BUILT</text></g>
+  <g class="row" style="animation-delay:0.95s"><text class="sans" x="360" y="278" font-size="16" fill="#1f2328">Client and internal products across e-commerce, healthcare, booking, HR,</text></g>
+  <g class="row" style="animation-delay:1.03s"><text class="sans" x="360" y="302" font-size="16" fill="#1f2328">recruitment, loyalty and marketing — from first commit to launch.</text></g>
+</svg>

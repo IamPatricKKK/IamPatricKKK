@@ -4,20 +4,11 @@
   <img src="./assets/hero3d-light.svg" width="100%" alt="Pham Xuan Truong — Full-Stack Developer" />
 </picture>
 
-### Hi, I'm Truong
-
-Full-stack developer at **[ABC Digital](https://github.com/abc-software-solutions-company)**. I build and ship web and mobile products end-to-end — from API and database design to the interface, CI/CD and production.
-
-### Experience
-
-**Full-Stack Developer · ABC Digital** — 2025 – present
-
-- Deliver client and internal products across e-commerce, healthcare, booking, HR, recruitment, loyalty and marketing domains.
-- Build backend services with NestJS and PostgreSQL: REST APIs, authentication (JWT, OAuth, Microsoft SSO), role-based access, real-time features, background jobs, file storage and email.
-- Develop customer-facing websites with Next.js, admin dashboards with React and Vite, and mobile apps with React Native and Expo.
-- Integrate LLM APIs (Claude, Gemini) into products and internal tools.
-- Run pnpm monorepos, containerise services with Docker and ship through GitHub Actions CI/CD to VPS (Nginx, Caddy, PM2) and Vercel.
-- Work in an agile team with code review, written specs and automated tests.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/about-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/about-light.svg" />
+  <img width="100%" src="./assets/about-light.svg" alt="Hi, I'm Truong. A full-stack developer who turns ideas into working products — web, admin and mobile — and takes them all the way to production. What I do: Backend: Design APIs, data models and secure, scalable services. Frontend: Build fast, responsive websites and admin dashboards. Mobile: Ship cross-platform mobile apps. Ai: Bring LLMs into products and everyday workflows. Devops: Containerise, automate CI/CD and run services in production. What I've built: Client and internal products across e-commerce, healthcare, booking, HR, recruitment, loyalty and marketing — from first commit to launch." />
+</picture>
 
 ### Tech stack
 
