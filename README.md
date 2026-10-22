@@ -5,7 +5,6 @@
 <img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=800&color=2C9CDB&center=true&vCenter=true&width=600&lines=Building+full-stack+web+apps+end-to-end;React+%C2%B7+Next.js+%C2%B7+NestJS+%C2%B7+FastAPI;Data+pipelines%2C+realtime+%26+PWA;Computer+vision+with+PyTorch+%26+YOLO" alt="typing" />
 
 <a href="https://github.com/IamPatricKKK?tab=followers"><img src="https://img.shields.io/github/followers/IamPatricKKK?label=Followers&style=for-the-badge&color=2c5364&logo=github" alt="followers" /></a>
-<img src="https://komarev.com/ghpvc/?username=IamPatricKKK&label=Profile%20views&color=203a43&style=for-the-badge" alt="profile views" />
 
 </div>
 
@@ -49,8 +48,8 @@
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=IamPatricKKK&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamPatricKKK&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="Top languages" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=IamPatricKKK&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamPatricKKK&layout=compact&langs_count=8&hide=html,css,plpgsql,batchfile,dockerfile&exclude_repo=64132786_Web2,Web2_PhamXuanTruong,GameNe,TheGameNe,GAMENEE&hide_border=true&theme=tokyonight" alt="Top languages" />
 </p>
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=IamPatricKKK&hide_border=true&theme=tokyonight" alt="GitHub streak" />
