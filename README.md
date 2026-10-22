@@ -16,15 +16,15 @@ Full-stack developer at **[ABC Digital](https://github.com/abc-software-solution
 - Build backend services with NestJS and PostgreSQL: REST APIs, authentication (JWT, OAuth, Microsoft SSO), role-based access, real-time features, background jobs, file storage and email.
 - Develop customer-facing websites with Next.js, admin dashboards with React and Vite, and mobile apps with React Native and Expo.
 - Integrate LLM APIs (Claude, Gemini) into products and internal tools.
-- Run monorepos with Turborepo and pnpm, containerise services with Docker, and ship through GitHub Actions CI/CD to VPS, Google Cloud and Vercel.
-- Write unit and end-to-end tests with Vitest, Jest and Playwright as part of an agile team with code review and written specs.
+- Run pnpm monorepos, containerise services with Docker and ship through GitHub Actions CI/CD to VPS (Nginx, Caddy, PM2) and Vercel.
+- Work in an agile team with code review, written specs and automated tests.
 
 ### Tech stack
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/stack-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="./assets/stack-light.svg" />
-  <img width="100%" src="./assets/stack-light.svg" alt="Languages: TypeScript, JavaScript, Python, Java, HTML5, CSS3. Frontend: React, Next.js, Vite, Tailwind CSS, shadcn/ui, Redux, Zustand, Sass, Storybook. Mobile: React Native, Expo, Firebase. Backend: Node.js, NestJS, Express, FastAPI, Socket.IO, Swagger. Data: PostgreSQL, Redis, MikroORM, Prisma, Drizzle, SQLAlchemy. Testing: Vitest, Jest, Playwright, Pytest. DevOps and cloud: Docker, GitHub Actions, Nginx, Linux, Bash, Git, Google Cloud, AWS, Vercel, Turborepo, pnpm. AI and ML: Claude, PyTorch, OpenCV, scikit-learn, pandas, NumPy." />
+  <img width="100%" src="./assets/stack-light.svg" alt="Languages: TypeScript, JavaScript, Python, Java. Frontend: React, Next.js, Vite, Tailwind CSS, shadcn/ui, TanStack Query. Mobile: React Native, Expo, Firebase. Backend: Node.js, NestJS, Express, FastAPI, Socket.IO, Swagger. Data: PostgreSQL, MikroORM, Prisma, Redis, Supabase. DevOps: Docker, GitHub Actions, Nginx, Caddy, PM2, Linux, Vercel, pnpm. AI and ML: Claude, Gemini, PyTorch, OpenCV." />
 </picture>
 
 ### What I focus on
