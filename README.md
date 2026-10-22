@@ -22,9 +22,9 @@ Full-stack developer at **[ABC Digital](https://github.com/abc-software-solution
 ### Tech stack
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/tech-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="./assets/tech-light.svg" />
-  <img width="100%" src="./assets/tech-light.svg" alt="Languages: TypeScript, JavaScript, Python, Java. Frontend: React, Next.js, Vite, Tailwind CSS, shadcn/ui, TanStack Query. Mobile: React Native, Expo, Firebase. Backend: Node.js, NestJS, Express, FastAPI, Socket.IO, Swagger. Data: PostgreSQL, MikroORM, Prisma, Redis, Supabase. DevOps: Docker, GitHub Actions, Nginx, Caddy, PM2, Linux, Vercel, pnpm. AI and ML: Claude, Gemini, PyTorch, OpenCV." />
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/skills-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./assets/skills-light.svg" />
+  <img width="100%" src="./assets/skills-light.svg" alt="Languages: TypeScript, JavaScript, Python, Java. Frontend: React, Next.js, Vite, Tailwind CSS, shadcn/ui, TanStack Query. Backend: Node.js, NestJS, Express, FastAPI, Socket.IO, Swagger. Data: PostgreSQL, MikroORM, Prisma, Redis, Supabase. Mobile: React Native, Expo, Firebase. DevOps: Docker, GitHub Actions, Nginx, Caddy, PM2, Linux, Vercel, pnpm. AI and ML: Claude, Gemini, PyTorch, OpenCV." />
 </picture>
 
 ### What I focus on
