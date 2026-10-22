@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-label="Pham Xuan Truong — Full-Stack Developer">
+  <title>Pham Xuan Truong — Full-Stack Developer</title>
+  <defs>
+    <linearGradient id="shine" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="420" y2="0">
+      <stop offset="0" stop-color="#1f2328"/>
+      <stop offset="0.42" stop-color="#1f2328"/>
+      <stop offset="0.5" stop-color="#0969da"/>
+      <stop offset="0.58" stop-color="#1f2328"/>
+      <stop offset="1" stop-color="#1f2328"/>
+      <animate attributeName="x1" values="-460;760;760" keyTimes="0;0.55;1" begin="0.9s" dur="4.5s" repeatCount="indefinite"/>
+      <animate attributeName="x2" values="-40;1180;1180" keyTimes="0;0.55;1" begin="0.9s" dur="4.5s" repeatCount="indefinite"/>
+    </linearGradient>
+    <linearGradient id="rule" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#0969da"/>
+      <stop offset="1" stop-color="#8250df"/>
+    </linearGradient>
+    <clipPath id="c0"><rect x="858" y="54" width="0" height="22"><animate attributeName="width" from="0" to="139" begin="1.00s" dur="0.33s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c1"><rect x="882" y="82" width="0" height="22"><animate attributeName="width" from="0" to="299" begin="1.45s" dur="0.71s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c2"><rect x="882" y="106" width="0" height="22"><animate attributeName="width" from="0" to="263" begin="2.28s" dur="0.63s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c3"><rect x="882" y="130" width="0" height="22"><animate attributeName="width" from="0" to="235" begin="3.03s" dur="0.56s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c4"><rect x="882" y="154" width="0" height="22"><animate attributeName="width" from="0" to="254" begin="3.71s" dur="0.6s" fill="freeze"/></rect></clipPath>
+    <clipPath id="c5"><rect x="858" y="178" width="0" height="22"><animate attributeName="width" from="0" to="22" begin="4.43s" dur="0.18s" fill="freeze"/></rect></clipPath>
+  </defs>
+  <style>
+    .sans { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Noto Sans", Helvetica, Arial, sans-serif; }
+    .mono { font-family: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Consolas, "Liberation Mono", monospace; }
+    .in { opacity: 0; animation: in 0.7s cubic-bezier(.2,.7,.2,1) forwards; }
+    .d1 { animation-delay: 0.05s; } .d2 { animation-delay: 0.2s; } .d3 { animation-delay: 0.4s; }
+    @keyframes in { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+  </style>
+
+  <text class="mono in d1" x="40" y="70" font-size="14" font-weight="600" letter-spacing="3" fill="#0969da">FULL-STACK DEVELOPER</text>
+  <text class="sans in d2" x="37" y="140" font-size="64" font-weight="700" letter-spacing="-1.5" fill="url(#shine)">Pham Xuan Truong</text>
+  <text class="sans in d3" x="40" y="182" font-size="20" fill="#59636e">Building web platforms end-to-end: APIs, web &amp; mobile apps, CI/CD.</text>
+
+  <rect x="826" y="50" width="1" height="0" fill="#d1d9e0">
+    <animate attributeName="height" from="0" to="146" begin="0.5s" dur="0.6s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.7 0.2 1"/>
+  </rect>
+
+  <g class="mono" font-size="15">
+    <g clip-path="url(#c0)"><text x="860" y="70"><tspan fill="#cf222e">const</tspan><tspan fill="#1f2328"> stack</tspan><tspan fill="#59636e"> = {</tspan></text></g>
+    <g clip-path="url(#c1)"><text y="98"><tspan x="884" fill="#1f2328">backend</tspan><tspan fill="#59636e">:</tspan><tspan x="980" fill="#0a3069">"NestJS · PostgreSQL"</tspan><tspan fill="#59636e">,</tspan></text></g>
+    <g clip-path="url(#c2)"><text y="122"><tspan x="884" fill="#1f2328">frontend</tspan><tspan fill="#59636e">:</tspan><tspan x="980" fill="#0a3069">"React · Next.js"</tspan><tspan fill="#59636e">,</tspan></text></g>
+    <g clip-path="url(#c3)"><text y="146"><tspan x="884" fill="#1f2328">mobile</tspan><tspan fill="#59636e">:</tspan><tspan x="980" fill="#0a3069">"React Native"</tspan><tspan fill="#59636e">,</tspan></text></g>
+    <g clip-path="url(#c4)"><text y="170"><tspan x="884" fill="#1f2328">devops</tspan><tspan fill="#59636e">:</tspan><tspan x="980" fill="#0a3069">"Docker · CI/CD"</tspan><tspan fill="#59636e">,</tspan></text></g>
+    <g clip-path="url(#c5)"><text x="860" y="194" fill="#59636e">};</text></g>
+    <rect x="860" y="57" width="8" height="17" rx="1" fill="#0969da" opacity="0"><animate attributeName="x" from="860" to="998" begin="1.00s" dur="0.33s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="1.00s"/><set attributeName="opacity" to="0" begin="1.41s"/></rect>
+    <rect x="884" y="85" width="8" height="17" rx="1" fill="#0969da" opacity="0"><animate attributeName="x" from="884" to="1182" begin="1.45s" dur="0.71s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="1.45s"/><set attributeName="opacity" to="0" begin="2.24s"/></rect>
+    <rect x="884" y="109" width="8" height="17" rx="1" fill="#0969da" opacity="0"><animate attributeName="x" from="884" to="1146" begin="2.28s" dur="0.63s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="2.28s"/><set attributeName="opacity" to="0" begin="2.99s"/></rect>
+    <rect x="884" y="133" width="8" height="17" rx="1" fill="#0969da" opacity="0"><animate attributeName="x" from="884" to="1118" begin="3.03s" dur="0.56s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="3.03s"/><set attributeName="opacity" to="0" begin="3.67s"/></rect>
+    <rect x="884" y="157" width="8" height="17" rx="1" fill="#0969da" opacity="0"><animate attributeName="x" from="884" to="1137" begin="3.71s" dur="0.6s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="3.71s"/><set attributeName="opacity" to="0" begin="4.39s"/></rect>
+    <rect x="860" y="181" width="8" height="17" rx="1" fill="#0969da" opacity="0"><animate attributeName="x" from="860" to="881" begin="4.43s" dur="0.18s" fill="freeze"/><set attributeName="opacity" to="0.85" begin="4.43s"/><animate attributeName="opacity" values="0.85;0.85;0;0" keyTimes="0;0.5;0.5;1" dur="1.1s" begin="4.61s" repeatCount="indefinite"/></rect>
+  </g>
+
+  <rect x="40" y="228" width="1120" height="1" fill="#d1d9e0"/>
+  <rect x="40" y="227" width="0" height="3" rx="1.5" fill="url(#rule)">
+    <animate attributeName="width" from="0" to="140" begin="0.6s" dur="0.9s" fill="freeze" calcMode="spline" keyTimes="0;1" keySplines="0.2 0.7 0.2 1"/>
+  </rect>
+  <circle cx="40" cy="228.5" r="3" fill="#8250df" opacity="0">
+    <set attributeName="opacity" to="1" begin="1.5s"/>
+    <animate attributeName="cx" values="180;1160" begin="1.5s" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;1;1;0" keyTimes="0;0.1;0.85;1" begin="1.5s" dur="5s" repeatCount="indefinite"/>
+  </circle>
+</svg>
