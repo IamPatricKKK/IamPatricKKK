@@ -1,58 +1,78 @@
-<div align="center">
+<p align="center">
+  <img src="./assets/header.svg" width="100%" alt="Pham Xuan Truong — Full-Stack Developer" />
+</p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Pham%20Xuan%20Truong&fontColor=ffffff&fontSize=46&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20TypeScript%20%C2%B7%20Python&descAlignY=58&descSize=18" width="100%" alt="header" />
-
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=800&color=2C9CDB&center=true&vCenter=true&width=600&lines=Building+full-stack+web+apps+end-to-end;React+%C2%B7+Next.js+%C2%B7+NestJS+%C2%B7+FastAPI;Data+pipelines%2C+realtime+%26+PWA;Computer+vision+with+PyTorch+%26+YOLO" alt="typing" />
-
-<a href="https://github.com/IamPatricKKK?tab=followers"><img src="https://img.shields.io/github/followers/IamPatricKKK?label=Followers&style=for-the-badge&color=2c5364&logo=github" alt="followers" /></a>
-
-</div>
-
----
+<p align="center">
+  <a href="https://github.com/abc-software-solutions-company"><img src="https://img.shields.io/badge/Full--Stack_Developer-ABC_Digital-818cf8?style=flat-square&labelColor=0b1020" alt="ABC Digital" /></a>
+  <img src="https://img.shields.io/badge/Since-Jul_2025-7dd3fc?style=flat-square&labelColor=0b1020" alt="since" />
+  <img src="https://img.shields.io/badge/Commits_@_work-900%2B-a78bfa?style=flat-square&labelColor=0b1020" alt="commits" />
+  <img src="https://img.shields.io/badge/Based_in-Vietnam-34d399?style=flat-square&labelColor=0b1020" alt="location" />
+</p>
 
 ## 👋 About me
 
-- 🧑‍💻 Full-stack developer working mostly with **TypeScript** (React, Next.js, NestJS) and **Python** (FastAPI, PyTorch).
-- 🏗️ I like building systems end-to-end: database schema → API → realtime UI → Docker deployment.
-- 🌫️ Currently building **Vietnam Air Quality** — a multi-service platform that ingests data from 4 providers, forecasts AQI and serves a realtime PWA.
-- 🤖 Exploring computer vision (YOLOv8, CNNs) and AI-assisted developer tooling.
-- 🌏 Based in Vietnam · 🇻🇳 Vietnamese / 🇬🇧 English
+I'm a full-stack developer at **[ABC Digital](https://github.com/abc-software-solutions-company)** (ABC Software Solutions), shipping client and internal products from the database to the UI and deploying them myself.
+
+- 🏗️ Build **Turborepo / pnpm monorepos** with a NestJS API, Next.js website, React admin portal and React Native app sharing typed packages.
+- 🔐 Comfortable with auth flows end-to-end: JWT access/refresh tokens for web and mobile, OTP password reset, RBAC, Microsoft SSO.
+- 🚢 Own the delivery path too: Docker images, GitHub Actions CI/CD to staging and production, VPS / GCP Cloud Build / Vercel.
+- 🤖 Use AI-assisted workflows (Claude Code, spec-driven plans) daily, and build automation tools for the team.
+
+> Most of my professional work lives in **private** organization repositories, so the contribution graph shows more than the repo list.
+
+## 💼 Experience
+
+### Full-Stack Developer · ABC Digital &nbsp;<sub>Jul 2025 – Present</sub>
+
+**900+ commits across 15+ client and internal products.** Selected work:
+
+| Product | What I worked on | Stack |
+| --- | --- | --- |
+| 🏢 **Corporate web platform** | 200+ commits: public website, admin CRUD modules, end-user API integration, auth screens, dark mode. | Next.js · Vite + React · NestJS |
+| 🏸 **Badminton venue booking board** | Booking board for a 4-court venue: court scheduling, pricing rules, session auth, admin and public apps. | React 19 · TanStack Router/Query · NestJS · MikroORM · GCP Cloud Build |
+| 📣 **Social media content planner** | Collaborative plan → create → review → publish workflow for social content with AI-assisted generation. | Next.js 15 · NestJS 11 · PostgreSQL 16 · MikroORM |
+| 💸 **Cashback / affiliate platform** | Customer website, back-end API and admin portal; Docker images on GHCR with automated staging deploys. | Next.js · NestJS · Vite + React · GitHub Actions |
+| 👥 **Internal HRM platform** | HR modules (org structure, policies, profiles) on top of a shared user-management service with Microsoft SSO. | NestJS 11 · MikroORM 7 · React 19 · Vite · Zustand |
+| 🦷 **Dental tourism platform** | Website, admin portal and API: banners, specialties, status handling, slug generation, UI fixes. | Next.js · NestJS · Turborepo |
+| 🔔 **Zen Bell** | Marketing site, blog and admin dashboard for a mindfulness app; small contributions to the iOS / Android clients. | Next.js · NestJS · Vite + React |
+| 🛍️ **Product catalogue & 360° tour** | Category ordering, 360° image tours, promotions, upload validation, health-checked production deploys. | Next.js · NestJS · Docker |
+| 🔑 **Auth backend for web & mobile** | Sign-up, roles, OTP password reset, refresh tokens for mobile and web; TypeORM → MikroORM migration. | NestJS · MikroORM · PostgreSQL |
+| 📱 **Rental & job marketplace apps** | Phone-number registration, role selection, splash flows; student profile, skills and shifts APIs. | React Native (Expo) · NestJS |
+| 🎁 **Rewards & loyalty** | Points give-away, streak freeze, evidence upload safeguards. | React Native · Next.js · NestJS |
+| 🛰️ **Internal tooling** | Domain / SSL / uptime monitor with Microsoft SSO and Teams Adaptive Card reports; birthday announcements bot. | Vercel serverless · TypeScript · MS Teams |
 
 ## 🛠️ Tech stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,tailwind,nodejs,nestjs,express&perline=9" alt="frontend and backend" /><br/>
-  <img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,opencv,postgres,docker,linux,bash,git,githubactions,vercel&perline=11" alt="data, ml and devops" />
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,vite,tailwind,nodejs,nestjs,express&perline=9" alt="web" /><br/>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,pytorch,postgres,docker,githubactions,gcp,vercel,linux,git&perline=10" alt="data and devops" />
 </p>
 
 | Area | Tools |
 | --- | --- |
-| **Frontend** | React 18, Next.js 14 (App Router), Vite, Tailwind CSS, shadcn/ui, Recharts, Leaflet, PWA (Workbox) |
-| **Backend** | NestJS, Express, FastAPI, TypeORM, SQLAlchemy, Socket.IO, JWT (RS256 / JWKS), RBAC |
-| **Data & ML** | PostgreSQL, Prophet, ARIMA, scikit-learn, PyTorch, YOLOv8, OpenCV, Streamlit |
-| **DevOps** | Docker / Docker Compose, Turborepo, pnpm workspaces, GitHub Actions, Vercel, Sentry |
+| **Frontend** | React 19, Next.js 15 (App Router), Vite, Tailwind CSS, shadcn/ui, TanStack Query / Router, Zustand, React Native (Expo) |
+| **Backend** | NestJS 11, Express, FastAPI, MikroORM, TypeORM, PostgreSQL, Socket.IO, Swagger, JWT / RBAC, Microsoft SSO |
+| **Quality** | Vitest, Playwright, Puppeteer, ESLint / Prettier, Husky, Renovate |
+| **DevOps** | Docker, Turborepo, pnpm workspaces, GitHub Actions, GHCR, GCP Cloud Build, Vercel, VPS + reverse proxy |
+| **Data & ML** | Prophet, ARIMA, scikit-learn, PyTorch, YOLOv8, OpenCV |
 
-## 🚀 Featured projects
+## 🧪 Side projects
 
 | Project | Description | Stack |
 | --- | --- | --- |
-| 🌫️ [**air-quality-fe**](https://github.com/IamPatricKKK/air-quality-fe) | Installable PWA for Vietnam air quality: realtime WebSocket updates, offline mode, push alerts, interactive station / region / heatmap views. | React · Vite · TS · Leaflet · Workbox |
-| ⚙️ [**air-quality-api**](https://github.com/IamPatricKKK/air-quality-api) | Core service: auth & RBAC (JWT RS256 + JWKS), ingestion from IQAir, OpenWeather, Open-Meteo & WAQI, curated user / admin APIs, email notifications. | NestJS · PostgreSQL |
-| 📈 [**air-quality-be**](https://github.com/IamPatricKKK/air-quality-be) | Analytics & forecasting service: 12–24h AQI forecasts, anomaly detection, seasonal & correlation analysis on scheduled jobs. | FastAPI · Prophet · ARIMA · scikit-learn |
-| 🛡️ [**air-quality-admin**](https://github.com/IamPatricKKK/air-quality-admin) | Admin console for operations and the analytics / prediction zone of the platform. | React · TS |
-| 👥 [**hrms-monorepo**](https://github.com/IamPatricKKK/hrms-monorepo) | Human-resource management system built as a Turborepo monorepo with a shared DTO package, used as the subject of a software-testing & QA project. | NestJS · Next.js 14 · TypeORM · Docker |
-| 🤝 [**LenKeo**](https://github.com/IamPatricKKK/LenKeo) · [live](https://share-bill-three.vercel.app) | Plan group purchases and split the bill: join by code / link, group chat, per-member amounts with QR payment and confirmation flow. | JavaScript · Vercel |
-| 😊 [**Demo_Face_Emotion_Detector**](https://github.com/IamPatricKKK/Demo_Face_Emotion_Detector) | Detects faces and classifies customer emotions from images with a Streamlit UI. | PyTorch · facenet-pytorch · Streamlit |
-| ⛑️ [**helmet-detection-whith-YOLO**](https://github.com/IamPatricKKK/helmet-detection-whith-YOLO) | Face + helmet detection from images or a live camera, auto-sorting captures by helmet / no helmet. | YOLOv8 · OpenCV · Tkinter |
+| 🌫️ [**Vietnam Air Quality**](https://github.com/IamPatricKKK/air-quality-fe) | Multi-service platform: [NestJS API](https://github.com/IamPatricKKK/air-quality-api) ingesting 4 data providers, [FastAPI forecasting](https://github.com/IamPatricKKK/air-quality-be) (Prophet / ARIMA), realtime offline-first PWA and [admin console](https://github.com/IamPatricKKK/air-quality-admin). | NestJS · FastAPI · React · PostgreSQL |
+| 🤝 [**LenKeo**](https://github.com/IamPatricKKK/LenKeo) · [live](https://share-bill-three.vercel.app) | Plan group purchases and split the bill with group chat and QR payments. | JavaScript · Vercel |
+| 👥 [**hrms-monorepo**](https://github.com/IamPatricKKK/hrms-monorepo) | HR management system used as the subject of a software-testing & QA project. | NestJS · Next.js · Turborepo |
+| ⛑️ [**Helmet detection**](https://github.com/IamPatricKKK/helmet-detection-whith-YOLO) · 😊 [**Emotion detector**](https://github.com/IamPatricKKK/Demo_Face_Emotion_Detector) | Computer-vision experiments: helmet detection from camera, customer emotion classification. | YOLOv8 · PyTorch · OpenCV |
 
 ## 📊 GitHub stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=IamPatricKKK&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&theme=tokyonight" alt="GitHub stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamPatricKKK&layout=compact&langs_count=8&hide=html,css,plpgsql,batchfile,dockerfile&exclude_repo=64132786_Web2,Web2_PhamXuanTruong,GameNe,TheGameNe,GAMENEE&hide_border=true&theme=tokyonight" alt="Top languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=IamPatricKKK&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&border_radius=12&bg_color=0b1020&title_color=a5b4fc&icon_color=7dd3fc&text_color=cbd5e1" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamPatricKKK&layout=compact&langs_count=8&hide=html,css,plpgsql,batchfile,dockerfile&exclude_repo=64132786_Web2,Web2_PhamXuanTruong,GameNe,TheGameNe,GAMENEE&hide_border=true&border_radius=12&bg_color=0b1020&title_color=a5b4fc&text_color=cbd5e1" alt="Top languages" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=IamPatricKKK&hide_border=true&theme=tokyonight" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=IamPatricKKK&hide_border=true&border_radius=12&background=0B1020&ring=818CF8&fire=7DD3FC&currStreakNum=E2E8F0&sideNums=A5B4FC&currStreakLabel=7DD3FC&sideLabels=CBD5E1&dates=94A3B8" alt="GitHub streak" />
 </p>
 
 <p align="center">
@@ -62,7 +82,3 @@
     <img alt="contribution snake" src="https://raw.githubusercontent.com/IamPatricKKK/IamPatricKKK/output/github-snake.svg" />
   </picture>
 </p>
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%" alt="footer" />
-</div>
