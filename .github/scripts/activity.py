@@ -56,23 +56,6 @@ def fetch_days(login: str, token: str) -> tuple[int, list[tuple[date, int]]]:
     return cal["totalContributions"], days
 
 
-def streaks(days: list[tuple[date, int]]) -> tuple[int, int]:
-    longest = run = 0
-    for _, n in days:
-        run = run + 1 if n else 0
-        longest = max(longest, run)
-    current = 0
-    tail = list(days)
-    # Today may have no contributions yet; that does not break the streak.
-    if tail and tail[-1][1] == 0:
-        tail.pop()
-    for _, n in reversed(tail):
-        if not n:
-            break
-        current += 1
-    return longest, current
-
-
 def weekly(days: list[tuple[date, int]]) -> list[tuple[date, int]]:
     weeks: list[tuple[date, int]] = []
     for i in range(0, len(days), 7):
@@ -113,13 +96,13 @@ def render(theme: dict, total: int, days: list[tuple[date, int]]) -> str:
     area = f"{line} L{pts[-1][0]:.1f},{CHART_BASE} L{pts[0][0]:.1f},{CHART_BASE} Z"
     end_x, end_y = pts[-1]
 
-    longest, current = streaks(days)
     active = sum(1 for _, n in days if n)
+    busiest = max((n for _, n in weeks), default=0)
     metrics = [
         (fmt(total), "CONTRIBUTIONS"),
         (fmt(active), "ACTIVE DAYS"),
-        (f"{longest} d", "LONGEST STREAK"),
-        (f"{current} d", "CURRENT STREAK"),
+        (fmt(busiest), "BUSIEST WEEK"),
+        (f"{total / max(len(weeks), 1):.1f}", "WEEKLY AVERAGE"),
     ]
     metric_svg = "\n".join(
         f'  <g class="in" style="animation-delay:{0.1 + i * 0.12:.2f}s">'

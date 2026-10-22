@@ -29,8 +29,8 @@
   <text class="mono" x="1160" y="40" font-size="12" letter-spacing="1" fill="#59636e" text-anchor="end">Oct 2025 – Oct 2026</text>
   <g class="in" style="animation-delay:0.10s"><text class="sans" x="40" y="92" font-size="40" font-weight="700" letter-spacing="-1" fill="#1f2328">257</text><text class="mono" x="42" y="120" font-size="12" letter-spacing="2" fill="#59636e">CONTRIBUTIONS</text></g>
   <g class="in" style="animation-delay:0.22s"><text class="sans" x="330" y="92" font-size="40" font-weight="700" letter-spacing="-1" fill="#1f2328">35</text><text class="mono" x="332" y="120" font-size="12" letter-spacing="2" fill="#59636e">ACTIVE DAYS</text></g>
-  <g class="in" style="animation-delay:0.34s"><text class="sans" x="620" y="92" font-size="40" font-weight="700" letter-spacing="-1" fill="#1f2328">6 d</text><text class="mono" x="622" y="120" font-size="12" letter-spacing="2" fill="#59636e">LONGEST STREAK</text></g>
-  <g class="in" style="animation-delay:0.46s"><text class="sans" x="910" y="92" font-size="40" font-weight="700" letter-spacing="-1" fill="#1f2328">1 d</text><text class="mono" x="912" y="120" font-size="12" letter-spacing="2" fill="#59636e">CURRENT STREAK</text></g>
+  <g class="in" style="animation-delay:0.34s"><text class="sans" x="620" y="92" font-size="40" font-weight="700" letter-spacing="-1" fill="#1f2328">48</text><text class="mono" x="622" y="120" font-size="12" letter-spacing="2" fill="#59636e">BUSIEST WEEK</text></g>
+  <g class="in" style="animation-delay:0.46s"><text class="sans" x="910" y="92" font-size="40" font-weight="700" letter-spacing="-1" fill="#1f2328">4.8</text><text class="mono" x="912" y="120" font-size="12" letter-spacing="2" fill="#59636e">WEEKLY AVERAGE</text></g>
 
   <line x1="40" x2="1160" y1="176.0" y2="176.0" stroke="#d1d9e0" stroke-dasharray="2 6"/>
   <line x1="40" x2="1160" y1="236.0" y2="236.0" stroke="#d1d9e0" stroke-dasharray="2 6"/>
